@@ -8,6 +8,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ### **A NOTE-TAKING APP MADE BY VUE 3**
 
+_[Click here to preview live](https://vue-notes-app-self.vercel.app/)_
+
 In this application we will be able to write a note and add it to the list of notes.
 
 #### HOW THE NOTES APP WORKS
