@@ -74,8 +74,8 @@ function getRandomColor() {
 
     <div class="container">
       <header>
-        <!-- {{ notes }} -->
-        <h1>Notes {{ showModal }}</h1>
+        <!-- {{ notes }}  {{ showModal }}-->
+        <h1>Notes App</h1>
         <button @click="showModal = true">+</button>
       </header>
 
